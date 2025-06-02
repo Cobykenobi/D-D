@@ -1,2 +1,5 @@
-# D-D
-D&amp;D admin panel with React and Express
+# DnD Admin Panel
+Проєкт для керування расами, професіями і характеристиками D&D.
+
+## Встановлення
+Інструкції дивись нижче.
