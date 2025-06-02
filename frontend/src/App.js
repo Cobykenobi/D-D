@@ -1,5 +1,10 @@
 import React from 'react';
 
+const api = axios.create({
+  baseURL: 'https://dnd-backend-ftfq.onrender.com/api', // постав URL твого бекенд-сервісу Render
+});
+
+
 function App() {
   return (
     <div>
